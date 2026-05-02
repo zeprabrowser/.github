@@ -25,5 +25,5 @@ Every subsystem is original:
 
 Zepra runs natively on [NeolyxOS](https://neolyx.ketivee.com) and is part of the broader KetiveeAI ecosystem alongside [Reox](https://github.com/ketiveeai/reox), [PixaML](https://opensource.ketivee.com), and [KetiveeSearch](https://ketivee.com).
 
-**License:** [KetiveeAI Public License 2.0](https://github.com/zeprabrowser/Zepra/blob/main/LICENSE) ·
+**License:** [KetiveeAI Public License 2.0](https://github.com/zeprabrowser/Zepra/blob/main/LICENSE.md) ·
 **Contact:** license@ketivee.com
