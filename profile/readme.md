@@ -23,7 +23,7 @@ Every subsystem is original:
 | **NXSVG** | SVG rasterizer |
 | **WebCore** | HTML & CSS parser |
 
-Zepra runs natively on [NeolyxOS](https://ketivee.com) and is part of the broader KetiveeAI ecosystem alongside [Reox](https://github.com/ketiveeai/reox), [PixaML](https://ketivee.com), and [KetiveeSearch](https://ketivee.com).
+Zepra runs natively on [NeolyxOS](https://neolyx.ketivee.com) and is part of the broader KetiveeAI ecosystem alongside [Reox](https://github.com/ketiveeai/reox), [PixaML](https://opensource.ketivee.com), and [KetiveeSearch](https://ketivee.com).
 
 **License:** [KetiveeAI Public License 2.0](https://github.com/zeprabrowser/Zepra/blob/main/LICENSE) ·
 **Contact:** license@ketivee.com
